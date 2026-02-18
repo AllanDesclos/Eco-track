@@ -1,3 +1,3 @@
 # Eco-track
 
-ecotrack.page.gd/
+https://www.ecotrack.page.gd/
